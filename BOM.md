@@ -21,7 +21,7 @@
 | [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW) | limit current flow | 1 | $0.10 | $0.10 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW) |
 | [PCB](https://www.jlcpcb.com/) | hold everything | 1 | $10.00 | $10.00 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$26.34** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$26.34** | — |
+| **Tax & shipping** | — | — | — | **$3.94** | — |
+| **Total** | — | — | — | **$30.28** | — |
 
-$3.66 left of the tier's funding.
+**$0.28 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
