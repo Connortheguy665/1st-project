@@ -18,10 +18,9 @@
 | [DHT11](https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.detail.0.0.4878c8fcqW3iFW) | digital sensor | 1 | $0.77 | $0.77 | [Ali express](https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.detail.0.0.4878c8fcqW3iFW) |
 | [MX Switches](https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.detail.0.0.4878c8fcqW3iFW) | controling inputs | 1 | $4.53 | $4.53 | [Ali express](https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.detail.0.0.4878c8fcqW3iFW) |
 | [Keycaps](https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.detail.0.0.4878c8fcqW3iFW) | simplifying the inputs | 1 | $5.26 | $5.26 | [Ali express](https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.detail.0.0.4878c8fcqW3iFW) |
-| [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW) | limit current flow | 1 | $0.10 | $0.10 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW) |
 | [PCB](https://www.jlcpcb.com/) | hold everything | 1 | $10.00 | $10.00 | [JLCPCB](https://www.jlcpcb.com/) |
-| **Parts subtotal** | — | — | — | **$31.92** | — |
+| **Parts subtotal** | — | — | — | **$31.82** | — |
 | **Tax & shipping** | — | — | — | **$3.94** | — |
-| **Total** | — | — | — | **$35.86** | — |
+| **Total** | — | — | — | **$35.76** | — |
 
-$29.14 left of the tier's funding.
+$29.24 left of the tier's funding.
