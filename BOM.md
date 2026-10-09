@@ -20,7 +20,7 @@
 | [Keycaps](https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.detail.0.0.4878c8fcqW3iFW) | simplifying the inputs | 1 | $5.26 | $5.26 | [Ali express](https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.detail.0.0.4878c8fcqW3iFW) |
 | [PCB](https://www.nextpcb.com/order/waitPayment?order_id=370485) | hold everything | 1 | $6.06 | $6.06 | [nextpcb](https://www.nextpcb.com/order/waitPayment?order_id=370485) |
 | **Parts subtotal** | — | — | — | **$27.88** | — |
-| **Tax & shipping** | — | — | — | **$19.00** | — |
-| **Total** | — | — | — | **$46.88** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$27.88** | — |
 
-$18.12 left of the tier's funding.
+$37.12 left of the tier's funding.
