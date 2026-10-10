@@ -1,6 +1,6 @@
 # 1st-project
 
-<img width="197" height="200" alt="OIP" src="https://github.com/user-attachments/assets/637a5653-6cba-4b6f-8789-0747a2c3bbaf" />
+<img width="197" height="200" alt="OIP" src="https://github.com/user-attachments/assets/637a5653-6cba-4b6f-8789-0747a2c3bbaf"/n/n />
 Starbie is a tiny motion-controlled digital pet: basically a desktop Tamagotchi with minimal gameplay buttons. Instead of pressing controls, you interact with it by physically moving the board.
 
 Looking for the guide! You can find it here!
