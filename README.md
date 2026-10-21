@@ -7,7 +7,7 @@ What it is
 its basically a tiny electronic toy that you can use and have a pet 
 
 Why?
-this was the week 1 half life project
+this was the week 1 half life project and it was an opportunity to explore the world of creation
 
 Project status
 The PCB was completed and submitted to the team in order to get it fabricated
