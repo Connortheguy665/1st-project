@@ -14,5 +14,6 @@ The PCB was completed and submitted to the team in order to get it fabricated
 
 Software
 for this device i used arduino in order to be able to code this
- here is my BOM
+<img width="818" height="666" alt="image" src="https://github.com/user-attachments/assets/7146c786-9ef5-4c9b-b315-66b70aae76de" />
+
  
