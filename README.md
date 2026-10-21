@@ -16,4 +16,7 @@ Software
 for this device i used arduino in order to be able to code this
 <img width="818" height="666" alt="image" src="https://github.com/user-attachments/assets/7146c786-9ef5-4c9b-b315-66b70aae76de" />
 
+Controls: you can use the buttons on the starbie to control and select certain things on it 
+ here is my BOM
+ https://github.com/Connortheguy665/1st-project/blob/main/BOM.csv
  
